@@ -2,7 +2,7 @@
 """
 Created on Thu Jan  9 13:36:06 2020
 
-@author: LGSYRZ
+@author: Yunzhao Ge
 """
 
 import sys,gdal,numpy as np,pandas as pd
