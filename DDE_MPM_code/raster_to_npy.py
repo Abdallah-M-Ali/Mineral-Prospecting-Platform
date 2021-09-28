@@ -2,7 +2,7 @@
 """
 Created on Thu Jan  9 01:07:52 2020
 
-@author: LGSYRZ
+@author: Yunzhao Ge
 """
 
 import sys,numpy as np
