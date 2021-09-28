@@ -2,7 +2,7 @@
 """
 Created on Thu Jan  9 01:14:58 2020
 
-@author: LGSYRZ
+@author: Yunzhao Ge
 """
 
 import gdal,ogr,sys
